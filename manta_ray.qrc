@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/manta_ray/manta_ray_01.png</file>
+        <file>img/manta_ray/manta_ray_02.png</file>
+        <file>img/manta_ray/manta_ray_03.png</file>
+        <file>img/manta_ray/manta_ray_04.png</file>
+        <file>img/manta_ray/manta_ray_05.png</file>
+        <file>img/manta_ray/manta_ray_06.png</file>
+        <file>img/manta_ray/manta_ray_07.png</file>
+        <file>img/manta_ray/manta_ray_08.png</file>
+        <file>img/manta_ray/manta_ray_09.png</file>
+        <file>img/manta_ray/manta_ray_10.png</file>
+        <file>img/manta_ray/manta_ray_11.png</file>
+        <file>img/manta_ray/manta_ray_12.png</file>
+        <file>img/manta_ray/manta_ray_13.png</file>
+        <file>img/manta_ray/manta_ray_14.png</file>
+        <file>img/manta_ray/manta_ray_15.png</file>
+        <file>img/manta_ray/manta_ray_16.png</file>
+        <file>img/manta_ray/manta_ray_17.png</file>
+        <file>img/manta_ray/manta_ray_18.png</file>
+        <file>img/manta_ray/manta_ray_19.png</file>
+        <file>img/manta_ray/manta_ray_20.png</file>
+        <file>img/manta_ray/manta_ray_21.png</file>
+        <file>img/manta_ray/manta_ray_22.png</file>
+        <file>img/manta_ray/manta_ray_23.png</file>
+        <file>img/manta_ray/manta_ray_24.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/shark/shark_01.png</file>
+        <file>img/shark/shark_02.png</file>
+        <file>img/shark/shark_03.png</file>
+        <file>img/shark/shark_04.png</file>
+        <file>img/shark/shark_05.png</file>
+        <file>img/shark/shark_06.png</file>
+        <file>img/shark/shark_07.png</file>
+        <file>img/shark/shark_08.png</file>
+        <file>img/shark/shark_09.png</file>
+        <file>img/shark/shark_10.png</file>
+        <file>img/shark/shark_11.png</file>
+        <file>img/shark/shark_12.png</file>
+    </qresource>
+</RCC>

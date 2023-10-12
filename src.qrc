@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/bg.png</file>
+        <file>img/bomb.png</file>
+        <file>img/console.png</file>
+        <file>img/continue.png</file>
+        <file>img/game_home.png</file>
+        <file>img/game_over.png</file>
+        <file>img/game_over_btn.png</file>
+        <file>img/game_start.png</file>
+        <file>img/pause.png</file>
+        <file>img/regame_btn.png</file>
+        <file>image/015fee552fa08a000000c500b3f9eb.jpg@2o.jpg</file>
+        <file>image/bg.png</file>
+        <file>image/OIP-C (1).jpg</file>
+        <file>image/OIP-C.jpg</file>
+        <file>image/R-C (1).jpg</file>
+        <file>image/R-C.jpg</file>
+        <file>image/R-d.jpg</file>
+        <file>image/设置3个开始游戏按钮街机视频游戏.jpg</file>
+        <file>image/start.png</file>
+        <file>image/label.fw.png</file>
+        <file>image/startbg.fw.png</file>
+        <file>image/sssfw.fw.png</file>
+        <file>image/lll.fw.png</file>
+        <file>image/018817582028d1a84a0d304fc2a953.jpg@1280w_1l_2o_100sh.jpg</file>
+        <file>image/gun.fw.png</file>
+    </qresource>
+</RCC>

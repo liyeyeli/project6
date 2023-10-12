@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/gold_fish/gold_fish_01.png</file>
+        <file>img/gold_fish/gold_fish_02.png</file>
+        <file>img/gold_fish/gold_fish_03.png</file>
+        <file>img/gold_fish/gold_fish_04.png</file>
+        <file>img/gold_fish/gold_fish_05.png</file>
+        <file>img/gold_fish/gold_fish_06.png</file>
+        <file>img/gold_fish/gold_fish_07.png</file>
+        <file>img/gold_fish/gold_fish_08.png</file>
+        <file>img/gold_fish/gold_fish_09.png</file>
+        <file>img/gold_fish/gold_fish_10.png</file>
+        <file>img/gold_fish/gold_fish_11.png</file>
+        <file>img/gold_fish/gold_fish_12.png</file>
+        <file>img/gold_fish/gold_fish_13.png</file>
+        <file>img/gold_fish/gold_fish_14.png</file>
+        <file>img/gold_fish/gold_fish_15.png</file>
+    </qresource>
+</RCC>

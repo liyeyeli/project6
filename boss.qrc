@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/boss/boss_01.png</file>
+        <file>img/boss/boss_02.png</file>
+        <file>img/boss/boss_03.png</file>
+        <file>img/boss/boss_04.png</file>
+        <file>img/boss/boss_05.png</file>
+        <file>img/boss/boss_06.png</file>
+        <file>img/boss/boss_07.png</file>
+        <file>img/boss/boss_08.png</file>
+        <file>img/boss/boss_09.png</file>
+        <file>img/boss/boss_10.png</file>
+        <file>img/boss/boss_11.png</file>
+        <file>img/boss/boss_12.png</file>
+        <file>img/boss/boss_13.png</file>
+        <file>img/boss/boss_14.png</file>
+        <file>img/boss/boss_15.png</file>
+        <file>img/boss/boss_16.png</file>
+        <file>img/boss/boss_17.png</file>
+        <file>img/boss/boss_18.png</file>
+        <file>img/boss/boss_19.png</file>
+        <file>img/boss/boss_20.png</file>
+        <file>img/boss/boss_21.png</file>
+        <file>img/boss/boss_22.png</file>
+        <file>img/boss/boss_23.png</file>
+        <file>img/boss/boss_24.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/fish_net/blue_net.png</file>
+        <file>img/fish_net/red_net.png</file>
+    </qresource>
+</RCC>

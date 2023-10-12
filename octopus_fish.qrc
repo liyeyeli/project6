@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/octopus_fish/octopus_01.png</file>
+        <file>img/octopus_fish/octopus_02.png</file>
+        <file>img/octopus_fish/octopus_03.png</file>
+        <file>img/octopus_fish/octopus_04.png</file>
+        <file>img/octopus_fish/octopus_05.png</file>
+        <file>img/octopus_fish/octopus_06.png</file>
+        <file>img/octopus_fish/octopus_07.png</file>
+        <file>img/octopus_fish/octopus_08.png</file>
+        <file>img/octopus_fish/octopus_09.png</file>
+        <file>img/octopus_fish/octopus_10.png</file>
+        <file>img/octopus_fish/octopus_11.png</file>
+        <file>img/octopus_fish/octopus_12.png</file>
+        <file>img/octopus_fish/octopus_13.png</file>
+        <file>img/octopus_fish/octopus_14.png</file>
+        <file>img/octopus_fish/octopus_15.png</file>
+        <file>img/octopus_fish/octopus_16.png</file>
+    </qresource>
+</RCC>
